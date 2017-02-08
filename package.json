@@ -1,0 +1,15 @@
+{
+  "name": "cvsToJson",
+  "version": "0.0.1",
+  "devDependencies": {
+    "babel-cli": "^6.22.2",
+    "babel-preset-env": "^1.1.8",
+    "requirejs": "^2.3.2"
+  },
+  "description": "## Usage ### Requirements * [NodeJS](http://nodejs.org/) (with [NPM](https://www.npmjs.org/))",
+  "scripts": {
+    "build": "npm install",
+    "start": "babel csvToJson.js --out-file csvToJson-compiled.js && node csvToJson-compiled.js"
+  },
+  "author": "lili1725"
+}
