@@ -3,7 +3,7 @@
 [![Build Status](https://travis-ci.org/lili1725/csv-to-json.svg?branch=master)](https://travis-ci.org/lili1725/csv-to-json)
 
 ## Usage
-Load data into ElasticSearch 5.0 from a CSV file or Convert a CSV file to a Json file or .
+Load data into ElasticSearch 5.0 from a CSV file or Convert a CSV file to a Json file.
 
 Example file : "IRVE-201615.csv".
 
